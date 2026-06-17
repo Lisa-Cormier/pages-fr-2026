@@ -4,10 +4,6 @@
     "destination": "/pages-fr-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html"
   },
   {
-    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html",
-    "destination": "/pages-fr-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/get-payments.html",
     "destination": "/pages-fr-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/get-payments.html"
   },
@@ -74,5 +70,9 @@
   {
     "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/who-file-pay.html",
     "destination": "/pages-fr-2026/en/services/taxes/excise-taxes-duties-and-levies/underused-housing-tax/who-file-pay.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html",
+    "destination": "/pages-fr-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html"
   }
 ]
